@@ -23,6 +23,7 @@
 - [Project Team Matchmaker](./02-campus-life/43-team-matchmaker/index.html)
 - [Peer Tutor Board](./02-campus-life/44-peer-tutor-board/index.html)
 - [Anonymous Course Feedback](./02-campus-life/45-feedback-pulse/index.html)
+- [TutorMatch — Student–Teacher Discovery](./02-campus-life/56-tutormatch/index.html)
 
 ## Exams Learning
 
